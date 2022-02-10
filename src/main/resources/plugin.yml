@@ -1,0 +1,5 @@
+name: CraftingMaster
+version: '${project.version}'
+main: de.kqray.craftinmaster.CraftinMaster
+api-version: 1.18
+authors: [ kqray ]
